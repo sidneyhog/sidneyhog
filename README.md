@@ -40,8 +40,8 @@ Estou em busca de aplicar meus conhecimentos em ambientes dinâmicos e inovadore
 
 Aqui estão alguns dos projetos mais importantes que compartilho com a comunidade:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sidneyhog&repo=devops&theme=cobalt)](https://github.com/sidneyhog/devops)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sidneyhog&repo=automacao-processos&theme=cobalt)](https://github.com/sidneyhog/automacao-processos)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sidneyhog&repo=nexiabr-clouddevops&theme=cobalt)](https://github.com/sidneyhog/nexiabr-cloud)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sidneyhog&repo=devops&theme=cobalt)](https://github.com/sidneyhog/devops)   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sidneyhog&repo=ia-generativa&theme=cobalt)](https://github.com/sidneyhog/ia-generativa)
 
 ---
