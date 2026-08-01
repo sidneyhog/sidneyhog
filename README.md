@@ -121,6 +121,10 @@ My work spans infrastructure, DevOps, software engineering and generative AI, no
   <img src="https://github-readme-stats-sidneyhog.vercel.app/api/top-langs/?username=sidneyhog&langs_count=8&theme=cobalt&hide_border=true" alt="sidneyhog's most used languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidneyhog&background=193549&ring=e683d9&fire=e683d9&currStreakNum=75eeb2&sideNums=75eeb2&currStreakLabel=75eeb2&sideLabels=75eeb2&dates=858585&border=193549&hide_border=true" alt="sidneyhog's contribution streak" />
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sidneyhog/sidneyhog/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sidneyhog/sidneyhog/output/github-contribution-grid-snake.svg" />
