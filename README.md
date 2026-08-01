@@ -44,6 +44,7 @@ Abaixo estão minhas principais habilidades, projetos e formas de contato.
 
 <p align="center">
   <img src="https://github-readme-stats-sidneyhog.vercel.app/api?username=sidneyhog&show_icons=true&theme=cobalt&hide_border=true" alt="Estatísticas do GitHub de sidneyhog" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidneyhog&background=193549&ring=e683d9&fire=e683d9&currStreakNum=75eeb2&sideNums=75eeb2&currStreakLabel=75eeb2&sideLabels=75eeb2&dates=858585&border=193549&hide_border=true" alt="Sequência de contribuições de sidneyhog" />
   <img src="https://github-readme-stats-sidneyhog.vercel.app/api/top-langs/?username=sidneyhog&langs_count=8&theme=cobalt&hide_border=true" alt="Linguagens mais usadas por sidneyhog" />
 </p>
 
