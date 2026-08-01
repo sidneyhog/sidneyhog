@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=4000&pause=1200&color=E4E4E4&center=true&vCenter=true&multiline=true&width=820&height=90&lines=I+don%27t+just+build+software.;I+engineer+systems+that+make+repetitive+work+disappear." alt="Sidney Henrique Oliveira Garcia" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=4000&pause=1200&color=E4E4E4&center=true&vCenter=true&multiline=true&width=950&height=90&lines=I+don%27t+just+build+software.;I+engineer+systems+that+make+repetitive+work+disappear." alt="Sidney Henrique Oliveira Garcia" />
 </h1>
 
 <h3 align="center">Automation · Infrastructure · Software Engineering · AI</h3>
